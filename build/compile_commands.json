@@ -1,0 +1,8 @@
+[
+{
+  "directory": "G:/ucheba/4sem/prog/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -Dmusic_EXPORTS -g -o CMakeFiles\\music.dir\\Track.cpp.obj -c G:\\ucheba\\4sem\\prog\\Track.cpp",
+  "file": "G:/ucheba/4sem/prog/Track.cpp",
+  "output": "G:/ucheba/4sem/prog/build/CMakeFiles/music.dir/Track.cpp.obj"
+}
+]
