@@ -1,3 +1,0 @@
-G:/ucheba/4sem/prog/build/CMakeFiles/music.dir
-G:/ucheba/4sem/prog/build/CMakeFiles/edit_cache.dir
-G:/ucheba/4sem/prog/build/CMakeFiles/rebuild_cache.dir
